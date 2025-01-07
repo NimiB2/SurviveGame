@@ -2,7 +2,11 @@
 
 This project is a study assignment where I reverse-engineered an APK file, analyzed its code, and recreated the app in Android Studio. Below is a detailed explanation of what I did, the challenges I faced, and how the game works.
 
-![sol](https://github.com/user-attachments/assets/31010482-46c3-4638-855d-44bcc92bdeb5)
+
+
+<img src="https://github.com/user-attachments/assets/31010482-46c3-4638-855d-44bcc92bdeb5" alt="sol" width="200"/>
+
+
 
 
 ## What I Did
